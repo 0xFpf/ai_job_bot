@@ -1,0 +1,7 @@
+*.pdf
+*.json
+*.log
+.env
+.venv
+/MiniLM
+__pycache__/
